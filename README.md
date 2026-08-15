@@ -7,5 +7,5 @@ width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@
 ## Contatos:
 <a href="https://www.linkedin.com/in/maria-cecilia-8940b5277" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=cecilialeahd-collab&theme=midnight&hide_border=true)
-![Snake animation](https://github.com/cecilialeahd-collab/cecilialeahd-collab/blob/output/github-contribution-grid-snake.svg)
+
 
