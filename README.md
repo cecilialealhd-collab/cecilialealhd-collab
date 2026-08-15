@@ -6,5 +6,4 @@
 width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
 ## Contatos:
 <a href="https://www.linkedin.com/in/maria-cecilia-8940b5277" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<div class="tenor-gif-embed" data-postid="4905550999835591915" data-share-method="host" data-aspect-ratio="1.01382" data-width="100%"><a href="https://tenor.com/view/nod-cat-nod-mhm-yes-si-gif-4905550999835591915">Nod Cat Nod GIF</a>from <a href="https://tenor.com/search/nod-gifs">Nod GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cecilialealhd-collab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
