@@ -1,8 +1,13 @@
 # Olá, me chamo Cecilia 
 - Atualmente estou trabalhando como Auxiliar de Suprimentos
 - Estudante de Análise e Desenvolvimento de Sistemas
-- Meu interesse por desenvolvimento e tecnologia existe desde a infância. Atualmente, estou transformando esse interesse em conhecimento por meio da graduação e de projetos práticos.
   
+#Interesses
+- Tenho interesse principalmente em desenvolvimento de software, programação e na criação de soluções que tornem processos e informações mais organizados e eficientes.
+  
+# Projetos
+- Estou construindo meus primeiros projetos acadêmicos e pessoais para colocar em prática os conhecimentos adquiridos durante a graduação.
+    
 ## Estou Aprendendo 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
