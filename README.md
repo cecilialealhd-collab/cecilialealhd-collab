@@ -2,10 +2,10 @@
 - Atualmente estou trabalhando como Auxiliar de Suprimentos
 - Estudante de Análise e Desenvolvimento de Sistemas
   
-#Interesses
+## Interesses
 - Tenho interesse principalmente em desenvolvimento de software, programação e na criação de soluções que tornem processos e informações mais organizados e eficientes.
-  
-# Projetos
+
+## Projetos
 - Estou construindo meus primeiros projetos acadêmicos e pessoais para colocar em prática os conhecimentos adquiridos durante a graduação.
     
 ## Estou Aprendendo 
