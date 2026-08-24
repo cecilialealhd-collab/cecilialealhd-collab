@@ -1,11 +1,16 @@
 # Olá, me chamo Cecilia 
 - Atualmente estou trabalhando como Auxiliar de Suprimentos
 - Estudante de Análise e Desenvolvimento de Sistemas
+- Meu interesse por desenvolvimento e tecnologia existe desde a infância. Atualmente, estou transformando esse interesse em conhecimento por meio da graduação e de projetos práticos.
+  
 ## Estou Aprendendo 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+                     
 ## Contatos:
-<a href="https://www.linkedin.com/in/maria-cecilia-8940b5277" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/maria-cecilia-8940b5277" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
 ## Status
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=cecilialealhd-collab&theme=nightowl&hide_border=true)
 
